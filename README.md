@@ -2,18 +2,17 @@
 A collection of .bat files (name is a song reference)
 
 # start.bat
+/Links to the old website and editable rota available while required/
 This opens the login pages for
-+ Current ITH website
-+ New ITH website
++ ITH website
 + Papercut
 
-After a 60 second delay it will open
+After a 75 second delay it will open
 + The rota
-+ dashboardnew
 + Papercut pending release page
-+ traka
 + appsanywhere
 + gmail
++ mymaps
 + the library classmark tool
 + The ITH group chat in messenger
 
