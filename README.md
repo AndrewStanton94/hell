@@ -2,7 +2,8 @@
 A collection of .bat files (name is a song reference)
 
 # start.bat
-/Links to the old website and editable rota available while required/
+*Links to the old website and editable rota available while required*
+
 This opens the login pages for
 + ITH website
 + Papercut
