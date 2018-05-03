@@ -11,4 +11,4 @@ start chrome "http://is-web-02.uni.ds.port.ac.uk/app/rota" "http://printers.port
 start notepad
 
 :: Transition insurance
-start chrome "http://is-web-01.uni.ds.port.ac.uk/" "http://is-web-02.uni.ds.port.ac.uk/app/rotaold"
+start chrome "http://is-web-02.uni.ds.port.ac.uk/app/rotaold"

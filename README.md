@@ -2,7 +2,7 @@
 A collection of .bat files (name is a song reference)
 
 # start.bat
-*Links to the [old website](http://is-web-01.uni.ds.port.ac.uk/) and [editable rota](http://is-web-02.uni.ds.port.ac.uk/app/rotaold) available while required*
+*Links to the [editable rota](http://is-web-02.uni.ds.port.ac.uk/app/rotaold) available while required*
 
 This opens the login pages for
 + ITH website
